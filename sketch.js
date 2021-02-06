@@ -123,3 +123,7 @@ function mousePressed()
      particle=new Particle(mouseX, 10, 10, 10); 
   }   
 }
+
+function showErr(){
+ console.log("this is a error");
+}
